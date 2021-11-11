@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_baseline_chat_bubble_24"
+        android:title="@string/about" />
+
+    <item
+        android:id="@+id/navigation_calculate"
+        android:icon="@drawable/ic_kisspng_computer_icons_scientific_calculator_clip_art_5ae52dc378f178_3396383315249688994954"
+        android:title="@string/calculate" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_notifications" />
+
+</menu>
