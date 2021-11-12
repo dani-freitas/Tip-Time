@@ -11,5 +11,6 @@
     <string name="good_15">Good (15%)</string>
     <string name="okay_10">Okay (10%)</string>
     <string name="amount">Amount: $</string>
+    <string name="tip">Tip</string>
 
 </resources>

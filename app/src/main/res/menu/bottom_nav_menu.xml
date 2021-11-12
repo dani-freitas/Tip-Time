@@ -12,8 +12,8 @@
         android:title="@string/calculate" />
 
     <item
-        android:id="@+id/navigation_notifications"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_notifications" />
+        android:id="@+id/navigation_tip"
+        android:icon="@drawable/ic_kisspng_computer_icons_scalable_vector_graphics_illustrati_dollar_tag_pay_shopping_svg_png_icon_free"
+        android:title="@string/tip" />
 
 </menu>
