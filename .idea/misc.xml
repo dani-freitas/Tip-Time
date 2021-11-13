@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dani_Git/Tip-Time/app/src/main/res/layout/activity_main.xml" value="0.35989583333333336" />
+        <entry key="..\:/Dani_Git/Tip-Time/app/src/main/res/layout/activity_menu.xml" value="0.35989583333333336" />
+        <entry key="..\:/Dani_Git/Tip-Time/app/src/main/res/layout/fragment_about.xml" value="0.33" />
+        <entry key="..\:/Dani_Git/Tip-Time/app/src/main/res/menu/bottom_nav_menu.xml" value="0.35989583333333336" />
         <entry key="..\:/TipTime/app/src/main/res/drawable/ic_baseline_chat_bubble_24.xml" value="0.13425925925925927" />
         <entry key="..\:/TipTime/app/src/main/res/drawable/ic_kisspng_computer_icons_scientific_calculator_clip_art_5ae52dc378f178_3396383315249688994954.xml" value="0.1" />
         <entry key="..\:/TipTime/app/src/main/res/layout/activity_main.xml" value="0.21467391304347827" />

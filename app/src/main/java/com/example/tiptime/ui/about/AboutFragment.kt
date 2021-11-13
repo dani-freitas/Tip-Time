@@ -33,7 +33,7 @@ class AboutFragment : Fragment() {
 
 
 
-       val textView: TextView = binding.about
+       val textView: TextView = binding.a
         aboutViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it
         })

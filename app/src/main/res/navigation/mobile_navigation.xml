@@ -11,8 +11,8 @@
         android:label="@string/about"
         tools:layout="@layout/fragment_about" >
         <action
-            android:id="@+id/action_navigation_bout_to_navigation_calculate"
-            app:destination="@id/navigation_calculate" />
+            android:id="@+id/action_navigation_bout_to_navigation_notifications"
+            app:destination="@id/navigation_notifications" />
     </fragment>
 
     <fragment
@@ -21,13 +21,13 @@
         android:label="@string/calculate"
         tools:layout="@layout/fragment_calculate" >
         <action
-            android:id="@+id/action_navigation_dashboard_to_navigation_notifications"
-            app:destination="@id/navigation_notifications" />
+            android:id="@+id/action_navigation_calculate_to_navigation_bout"
+            app:destination="@id/navigation_bout" />
     </fragment>
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.example.tiptime.ui.notifications.NotificationsFragment"
+        android:name="com.example.tiptime.ui.tip.TipFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_tip" />
 </navigation>
